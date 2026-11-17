@@ -1,0 +1,6 @@
+{
+  "name": "RTO Shield",
+  "description": "Smart Order Verification & RTO Risk Assistant for small Indian online sellers. Verify before you ship. Protect every order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
